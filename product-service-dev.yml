@@ -16,3 +16,6 @@ logging:
   level:
     root: INFO
     com.microservicescourse: DEBUG
+
+app:
+  testProp: Property of test
