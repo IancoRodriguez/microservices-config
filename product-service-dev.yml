@@ -18,4 +18,4 @@ logging:
     com.microservicescourse: DEBUG
 
 app:
-  testProp: test probando
+  testProp: test probando updated for bus and message broker
